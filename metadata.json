@@ -1,0 +1,6 @@
+{
+  "name": "MANEE | مَنيع",
+  "description": "منصة ومعرض أعمال شركة مَنيع لحلول العزل المائي والحراري والصوتي مع نظام إدارة متكامل وواجهة برمجية كاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
